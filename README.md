@@ -1,0 +1,1 @@
+An edit of the Fission Robots mod for Factorio by Mengmoshu. This changes the crafting recipie of the fission bots to use construction and logistics bots rather than the flying robot frames, allowing for you to upgrade an existing bot network.
