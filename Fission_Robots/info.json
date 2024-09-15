@@ -1,0 +1,10 @@
+{
+"name": "Fission_Robots",
+"author": "Mengmoshu",
+"version": "0.0.1",
+"factorio_version": "1.1",
+"title": "Fission Robots",
+"license":"MIT",
+"homepage": "https://github.com/Mengmoshu/Fission-Robots",
+"description": "Expensive nuclear powered robots that don't need to recharge."
+}
